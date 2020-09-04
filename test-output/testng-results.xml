@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19261" started-at="2020-05-25T18:40:36 EDT" finished-at="2020-05-25T18:40:55 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19261" started-at="2020-05-25T18:40:36 EDT" finished-at="2020-05-25T18:40:55 EDT">
+      <class name="Practice1.comFaceTest">
+        <test-method status="PASS" signature="star()[pri:0, instance:Practice1.comFaceTest@5d76b067]" name="star" is-config="true" duration-ms="13633" started-at="2020-05-25T18:40:36 EDT" finished-at="2020-05-25T18:40:49 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- star -->
+        <test-method status="PASS" signature="facebrowser(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Practice1.comFaceTest@5d76b067]" name="facebrowser" duration-ms="538" started-at="2020-05-25T18:40:49 EDT" data-provider="getdata" finished-at="2020-05-25T18:40:50 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[alam@alim]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[wewewewe]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[MD]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebrowser -->
+        <test-method status="PASS" signature="facebrowser(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Practice1.comFaceTest@5d76b067]" name="facebrowser" duration-ms="373" started-at="2020-05-25T18:40:50 EDT" data-provider="getdata" finished-at="2020-05-25T18:40:50 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[muhin@khaja]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xsxsxsxs]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Rahim]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebrowser -->
+        <test-method status="PASS" signature="facebrowser(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Practice1.comFaceTest@5d76b067]" name="facebrowser" duration-ms="299" started-at="2020-05-25T18:40:50 EDT" data-provider="getdata" finished-at="2020-05-25T18:40:51 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mash@bin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[uhuhuhuhu]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[tamim]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebrowser -->
+        <test-method status="PASS" signature="facebrowser(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Practice1.comFaceTest@5d76b067]" name="facebrowser" duration-ms="186" started-at="2020-05-25T18:40:51 EDT" data-provider="getdata" finished-at="2020-05-25T18:40:51 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebrowser -->
+        <test-method status="PASS" signature="ses()[pri:0, instance:Practice1.comFaceTest@5d76b067]" name="ses" is-config="true" duration-ms="4182" started-at="2020-05-25T18:40:51 EDT" finished-at="2020-05-25T18:40:55 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ses -->
+      </class> <!-- Practice1.comFaceTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

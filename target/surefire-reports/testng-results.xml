@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="72494" started-at="2020-05-25T18:18:03 EDT" finished-at="2020-05-25T18:19:16 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="72494" started-at="2020-05-25T18:18:03 EDT" finished-at="2020-05-25T18:19:16 EDT">
+      <class name="Practice1.comFaceTest">
+        <test-method status="PASS" signature="facebrowser(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Practice1.comFaceTest@5702b3b1]" name="facebrowser" duration-ms="18765" started-at="2020-05-25T18:18:03 EDT" data-provider="getdata" finished-at="2020-05-25T18:18:22 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[alam@alim]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[wewewewe]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[MD]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebrowser -->
+        <test-method status="PASS" signature="facebrowser(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Practice1.comFaceTest@5702b3b1]" name="facebrowser" duration-ms="19949" started-at="2020-05-25T18:18:22 EDT" data-provider="getdata" finished-at="2020-05-25T18:18:42 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[muhin@khaja]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xsxsxsxs]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Rahim]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebrowser -->
+        <test-method status="PASS" signature="facebrowser(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Practice1.comFaceTest@5702b3b1]" name="facebrowser" duration-ms="17036" started-at="2020-05-25T18:18:42 EDT" data-provider="getdata" finished-at="2020-05-25T18:18:59 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mash@bin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[uhuhuhuhu]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[tamim]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebrowser -->
+        <test-method status="PASS" signature="facebrowser(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Practice1.comFaceTest@5702b3b1]" name="facebrowser" duration-ms="16681" started-at="2020-05-25T18:18:59 EDT" data-provider="getdata" finished-at="2020-05-25T18:19:16 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebrowser -->
+      </class> <!-- Practice1.comFaceTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
